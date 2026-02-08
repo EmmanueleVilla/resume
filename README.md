@@ -1,6 +1,3 @@
----
----
-
 # Emmanuele Villa
 
 <span class="iconify" data-icon="charm:person"></span> [emmanuelevilla.com](https://emmanuelevilla.com/)
@@ -19,12 +16,11 @@ projects showcasing innovative and experimental applications.
 
 **Senior Technical Consultant**
   : **Fincons Group, May 2023 - Present**
-
+- Prototyping agentic AI workflows across the full development lifecycle, from requirement refinement and architecture generation to LLM-assisted PR review, automated test case generation, and intelligent release note summarization, reducing manual overhead in pre- and post-release processes.
 - Architected and led the RTE Radio mobile application (Ireland’s National Broadcaster) using Kotlin Multiplatform (KMM) and Jetpack Compose, achieving 30% code reuse while maintaining native UX across Android, iOS, Car, and Wear
 platforms.
 - Designed, implemented, and managed a full CI/CD pipeline using GitHub Actions, Fastlane, and Maestro, integrating
 static analysis, linting, unit/UI tests, and AI-assisted pre-commit validation; achieved 40% reduction in release defects.
-- Prototyping agentic AI workflows across the full development lifecycle, from requirement refinement and architecture spike generation in pre-development to LLM-assisted PR review, automated test case generation, and intelligent release note summarization, reducing manual overhead in pre- and post-release processes.
 
 **Technical Consultant**
   : **Fincons Group, May 2020 - May 2023**
@@ -56,6 +52,18 @@ and improving deployment consistency across multiple platforms.
 accumulated 10K+ downloads and positive performance reviews.
 - Contributed to the Genetic Algorithm Artificial Intelligence for the porting of the Magnifico board game to Desktop and Tablet platforms, available on Steam
 
+## Speaking
+
+**Droidcon Turin**
+  : **2025**
+- Presented "Post-Quantum Cryptography with Kotlin Multiplatform", demonstrating a Kyber-based client/server architecture built entirely in KMP.
+
+**Fincons Group — Internal Tech Talks**
+  : **2024 - Present**
+- Delivered company-wide sessions (2K+ employees) on agentic AI adoption (3 sessions), quantum computing fundamentals, and code review best practices for cross-team engineering audiences.
+
+\newpage
+
 ## Teaching Experience
 
 **Teacher**
@@ -69,14 +77,8 @@ accumulated 10K+ downloads and positive performance reviews.
 - Produced two professional courses: Git Mastery and Quantum Computing Foundations, totaling 30+ hours of content for
 online learners.
 
-## Speaking
-
-- **Droidcon Turin 2025**: Presented "Post-Quantum Cryptography with Kotlin Multiplatform", demonstrating a Kyber-based client/server architecture built entirely in KMP.
-
-\newpage
-
 ## Personal Projects
-- [**Kyber-KMP**](https://github.com/EmmanueleVilla/KyberKmp): Post Quantum Cryptography client/server architecture in KMP demoed at Droidcon Turin 2025.
+- [**Kyber-KMP**](https://github.com/EmmanueleVilla/KyberKmp): Post Quantum Cryptography client/server architecture in KMP.
 - [**WaterPeePoop**](https://play.google.com/store/apps/details?id=com.shadowings.waterpeepoo.enhanced&hl=it): Jetpack Compose + Room Android app tracking daily hydration and nutrition metrics.
 - [**Renshuu Widget**](https://github.com/EmmanueleVilla/renshuu_widget): A widget-only app that connects to Renshuu to show your Japanese learning progress.
 - [**Flappy AI**](https://willyrs.itch.io/flappy-ai): A Flappy Bird clone where you play against a genetic algorithm neural network coded from scratch.
@@ -94,7 +96,6 @@ online learners.
 - **AI/ML**: Azure AI Services, Genetic Algorithms, Neural Networks, Procedural Content Generation
 - **Quantum Computing**: Qiskit, Post-Quantum Cryptography (Kyber), Quantum Algorithm Design
 - **CI/CD**: GitHub Actions, Jenkins, GitLab CI, Fastlane, Maestro, automated testing
-- **Tools**: Jira, Confluence, Git, GitHub / GitLab, Slack, Postman
 - **Leadership**: Agile/Scrum management, code review culture, developer mentoring, cross-team coordination
 
 ## Education
@@ -147,4 +148,3 @@ Università degli Studi di Milano, Specialization in Applied Computer Science
 - [**YouTube**](https://www.youtube.com/@WiLLyRS89): 2.3K subscribers; short technical videos and mini-courses on AI and quantum fundamentals.
 - **Twitch**: Light live-coding sessions demonstrating development workflows and problem-solving.
 - **Other hobbies**: Videogames, Ant Keeping, Dungeons & Dragons.
-
