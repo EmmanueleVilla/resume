@@ -26,14 +26,14 @@ platforms.
 static analysis, linting, unit/UI tests, and AI-assisted pre-commit validation; achieved 40% reduction in release defects.
 
 **Technical Consultant**
-  : **Fincons Group*, May 2020 - May 2023**
+  : **Fincons Group, May 2020 - May 2023**
 
 - Directed architecture and implementation of RTE mobile and CTV platforms, integrating Flux/Redux design across
 Android, iOS, and ReactJS, achieving consistent feature parity and 30% shared logic reuse.
 - Mentored a distributed engineering team of 10+ developers, introducing architecture patterns, code review standards and test automation practices that increased team velocity by 25% and reduced post-release issues by 30%.
 
 **Senior Mobile Developer**
-  : **Fincons Group*, May 2017 - May 2020**
+  : **Fincons Group, May 2017 - May 2020**
 
 - Led full lifecycle development of Publitalia’s advertising sales platform using React Native and Redux, improving data entry accuracy and workflow speed across 3 business units.
 - Rebuilt and optimized Eni’s MyMulticard mobile app using Xamarin, ReactiveUI, and Rx patterns, reducing response
