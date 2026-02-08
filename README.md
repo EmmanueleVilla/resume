@@ -9,7 +9,7 @@
   :  <span class="iconify" data-icon="tabler:brand-itch"></span> [willyrs](https://willyrs.itch.io/)
 
 ## Summary
-Senior Technical Consultant and cross-platform software architect with 10+ years of experience delivering enterprise-grade
+Senior Technical Consultant and cross-platform software architect with 13+ years of experience delivering enterprise-grade
 mobile, TV, wearable, and automotive applications. Expert in native frameworks, Kotlin Multiplatform, React Native,
 Xamarin, and Unity3D. Experienced in designing scalable CI/CD pipelines, maintaining high code quality, and mentoring
 distributed engineering teams. Passionate about AI, PCG, and quantum computing, with personal
@@ -24,6 +24,7 @@ projects showcasing innovative and experimental applications.
 platforms.
 - Designed, implemented, and managed a full CI/CD pipeline using GitHub Actions, Fastlane, and Maestro, integrating
 static analysis, linting, unit/UI tests, and AI-assisted pre-commit validation; achieved 40% reduction in release defects.
+- Prototyping agentic AI workflows across the full development lifecycle, from requirement refinement and architecture spike generation in pre-development to LLM-assisted PR review, automated test case generation, and intelligent release note summarization, reducing manual overhead in pre- and post-release processes.
 
 **Technical Consultant**
   : **Fincons Group, May 2020 - May 2023**
@@ -60,13 +61,17 @@ accumulated 10K+ downloads and positive performance reviews.
 **Teacher**
   : **U3 Carate Brianza, Sept 2024 - Present**
 
-- Teach multidisciplinary courses to 100+ adult learners on computing history, AI fundamentals, quantum concepts, worldbuilding, and the history and philosophy of science.
+- Designed and delivered 4 courses to 100+ adult learners: Artificial Intelligence (2024–2025), History of Computers (2025–2026), Dungeons & Dragons and Worldbuilding (2025–2026), and History of Science (2026–2027).
 
 **Online Course Lecturer**
   : **Sky Clouds Academy, Jan 2023**
 
 - Produced two professional courses: Git Mastery and Quantum Computing Foundations, totaling 30+ hours of content for
 online learners.
+
+## Speaking
+
+- **Droidcon Turin 2025**: Presented "Post-Quantum Cryptography with Kotlin Multiplatform", demonstrating a Kyber-based client/server architecture built entirely in KMP.
 
 \newpage
 
@@ -84,7 +89,10 @@ online learners.
 
 - **Languages:** Kotlin, Swift, TypeScript, C#, Python, Java, C/C++
 - **Frameworks**: Kotlin Multiplatform, Jetpack Compose, React / React Native, Xamarin, Unity3D, raylib
+- **Platforms**: Android, iOS, tvOS, watchOS, Android Auto, Oculus Quest
 - **Architecture**: Clean Architecture, MVVM, MVI, Flux/Redux, Reactive/Functional, SOLID
+- **AI/ML**: Azure AI Services, Genetic Algorithms, Neural Networks, Procedural Content Generation
+- **Quantum Computing**: Qiskit, Post-Quantum Cryptography (Kyber), Quantum Algorithm Design
 - **CI/CD**: GitHub Actions, Jenkins, GitLab CI, Fastlane, Maestro, automated testing
 - **Tools**: Jira, Confluence, Git, GitHub / GitLab, Slack, Postman
 - **Leadership**: Agile/Scrum management, code review culture, developer mentoring, cross-team coordination
@@ -136,7 +144,7 @@ Università degli Studi di Milano, Specialization in Applied Computer Science
 
 - **Publications:** Sequence [A262260](https://oeis.org/A262260) in the Online Encyclopedia of Integer Sequences.
 - **Languages**: Italian (Native), English (C1), Japanese (A2).
-- [**YouTube**](https://www.youtube.com/@WiLLyRS89): Occasional short technical videos and mini-courses on AI and quantum fundamentals.
+- [**YouTube**](https://www.youtube.com/@WiLLyRS89): 2.3K subscribers; short technical videos and mini-courses on AI and quantum fundamentals.
 - **Twitch**: Light live-coding sessions demonstrating development workflows and problem-solving.
 - **Other hobbies**: Videogames, Ant Keeping, Dungeons & Dragons.
 
