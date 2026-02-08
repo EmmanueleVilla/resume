@@ -108,7 +108,7 @@ Università degli Studi di Milano, Specialization in Game Programming
 
 Università degli Studi di Milano, Specialization in Applied Computer Science
 
-7/110, with a thesis on "Development and optimization of a videogame with Unity3D"
+97/110, with a thesis on "Development and optimization of a videogame with Unity3D"
 
 
 ## Certifications
