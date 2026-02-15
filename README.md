@@ -122,6 +122,8 @@ Università degli Studi di Milano, Specialization in Applied Computer Science
 
 ## Certifications
 
+- **IBM Practical Introduction to Quantum-Safe Cryptography**
+  : 2026
 - **Versant English C1**
   : 2025
 
