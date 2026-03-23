@@ -54,13 +54,14 @@ accumulated 10K+ downloads and positive performance reviews.
 
 ## Speaking
 
+**AI Heroes Milan**
+  : **2026**
+- Led a hands-on workshop on building a Model Context Protocol (MCP) tool in Kotlin, showing how to design structured interfaces to guide LLM behavior beyond prompt engineering.
+- Delivered a talk on agent orchestration for translating and analyzing Latin texts, presenting a multi-agent pipeline combining tool usage, iterative refinement, and linguistic analysis.
+
 **Droidcon Turin**
   : **2025**
 - Presented "Post-Quantum Cryptography with Kotlin Multiplatform", demonstrating a Kyber-based client/server architecture built entirely in KMP.
-
-**Fincons Group — Internal Tech Talks**
-  : **2024 - Present**
-- Delivered company-wide sessions (2K+ employees) on agentic AI adoption (3 sessions), quantum computing fundamentals, and code review best practices for cross-team engineering audiences.
 
 \newpage
 
@@ -69,7 +70,7 @@ accumulated 10K+ downloads and positive performance reviews.
 **Teacher**
   : **U3 Carate Brianza, Sept 2024 - Present**
 
-- Designed and delivered 4 courses to 100+ adult learners: Artificial Intelligence (2024–2025), History of Computers (2025–2026), Dungeons & Dragons and Worldbuilding (2025–2026), and History of Science (2026–2027).
+- Designed and delivered 4 courses to 100+ adult learners: Artificial Intelligence (2024), History of Computers (2025), Dungeons & Dragons and Worldbuilding (2026), and History of Science (2026).
 
 **Online Course Lecturer**
   : **Sky Clouds Academy, Jan 2023**
