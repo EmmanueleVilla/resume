@@ -79,6 +79,7 @@ accumulated 10K+ downloads and positive performance reviews.
 online learners.
 
 ## Personal Projects
+- [**Taskagotchi**](https://play.google.com/store/apps/details?id=com.shadowings.taskgotchi): A retro Windows 98-style task manager simulation game where you monitor and manage a fake system.
 - [**Kyber-KMP**](https://github.com/EmmanueleVilla/KyberKmp): Post Quantum Cryptography client/server architecture in KMP.
 - [**WaterPeePoop**](https://play.google.com/store/apps/details?id=com.shadowings.waterpeepoo.enhanced&hl=it): Jetpack Compose + Room Android app tracking daily hydration and nutrition metrics.
 - [**Renshuu Widget**](https://github.com/EmmanueleVilla/renshuu_widget): A widget-only app that connects to Renshuu to show your Japanese learning progress.
