@@ -6,17 +6,22 @@
   :  <span class="iconify" data-icon="tabler:brand-itch"></span> [willyrs](https://willyrs.itch.io/)
 
 ## Summary
-Senior Technical Consultant and cross-platform software architect with 13+ years of experience delivering enterprise-grade
-mobile, TV, wearable, and automotive applications. Expert in native frameworks, Kotlin Multiplatform, React Native,
-Xamarin, and Unity3D. Experienced in designing scalable CI/CD pipelines, maintaining high code quality, and mentoring
-distributed engineering teams. Passionate about AI, PCG, and quantum computing, with personal
-projects showcasing innovative and experimental applications.
+Solution Architect & Associate Manager with 15+ years of experience building and scaling enterprise-grade cross-platform applications across mobile, TV, wearable, and automotive platforms.
+
+Strong hands-on background in native development, Kotlin Multiplatform, React Native, Xamarin, and Unity3D, with a focus on clean architecture, performance, and maintainability.
+
+Experienced in designing CI/CD pipelines, enforcing code quality standards, and leading distributed engineering teams, combining architectural ownership with day-to-day technical execution.
+
+Passionate about AI, procedural content generation, and quantum computing, with personal projects focused on experimental and low-level implementations.
 
 ## Dev Experience
 
-**Senior Technical Consultant**
-  : **Fincons Group, May 2023 - Present**
+**Solution Architect & Associate Manager**
+  : **Fincons Group, May 2026 - Present**
 - Prototyping agentic AI workflows across the full development lifecycle, from requirement refinement and architecture generation to LLM-assisted PR review, automated test case generation, and intelligent release note summarization, reducing manual overhead in pre- and post-release processes.
+
+**Senior Technical Consultant**
+  : **Fincons Group, May 2023 - May 2026**
 - Architected and led the RTE Radio mobile application (Ireland’s National Broadcaster) using Kotlin Multiplatform (KMM) and Jetpack Compose, achieving 30% code reuse while maintaining native UX across Android, iOS, Car, and Wear
 platforms.
 - Designed, implemented, and managed a full CI/CD pipeline using GitHub Actions, Fastlane, and Maestro, integrating
