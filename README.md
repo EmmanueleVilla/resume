@@ -59,13 +59,13 @@ accumulated 10K+ downloads and positive performance reviews.
 
 ## Speaking
 
-**AI Heroes Milan**
-  : **2026**
-- Led a hands-on workshop on building a Model Context Protocol (MCP) tool in Kotlin, showing how to design structured interfaces to guide LLM behavior beyond prompt engineering.
+**Casa di reclusione di Bollate** : **2027**
+- Delivered an educational lecture on human and artificial intelligence, covering neural networks, machine learning, and the similarities and differences between biological and artificial learning processes.
+
+**AI Heroes Milan 2026**
 - Delivered a talk on agent orchestration for translating and analyzing Latin texts, presenting a multi-agent pipeline combining tool usage, iterative refinement, and linguistic analysis.
 
-**Droidcon Turin**
-  : **2025**
+**Droidcon Turin, DevFest Vicenza** : *2025-2026**
 - Presented "Post-Quantum Cryptography with Kotlin Multiplatform", demonstrating a Kyber-based client/server architecture built entirely in KMP.
 
 \newpage
@@ -75,7 +75,7 @@ accumulated 10K+ downloads and positive performance reviews.
 **Teacher**
   : **U3 Carate Brianza, Sept 2024 - Present**
 
-- Designed and delivered 4 courses to 100+ adult learners: Artificial Intelligence (2024), History of Computers (2025), Dungeons & Dragons and Worldbuilding (2026), and History of Science (2026).
+- Designed and delivered 4 courses to 100+ adult learners: Artificial Intelligence (2024), History of Computers (2025), Dungeons & Dragons and Worldbuilding (2026), History of Science (2026), Computer Security (2027)
 
 **Online Course Lecturer**
   : **Sky Clouds Academy, Jan 2023**
