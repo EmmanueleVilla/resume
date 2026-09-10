@@ -1,5 +1,8 @@
 # Emmanuele Villa
-<span class="iconify" data-icon="charm:person"></span> [emmanuelevilla.com](https://emmanuelevilla.com/) : <span class="iconify" data-icon="tabler:brand-github"></span> [EmmanueleVilla](https://github.com/EmmanueleVilla) : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [emmanuelevilla](https://linkedin.com/in/emmanuelevilla/) : <span class="iconify" data-icon="tabler:brand-itch"></span> [willyrs](https://willyrs.itch.io/)
+<iconify-icon icon="eva:person-outline"></iconify-icon> [emmanuelevilla.com](https://emmanuelevilla.com/)
+  : <iconify-icon icon="tabler:brand-github"></iconify-icon> [EmmanueleVilla](https://github.com/EmmanueleVilla)
+  : <iconify-icon icon="tabler:brand-linkedin"></iconify-icon> [emmanuelevilla](https://linkedin.com/in/emmanuelevilla/)
+  : <iconify-icon icon="tabler:brand-itch"></iconify-icon> [willyrs](https://willyrs.itch.io/)
 ## Summary
 15+ years of experience building and scaling enterprise-grade cross-platform applications across mobile, TV, wearable, and automotive platforms. Strong hands-on background in Android, Kotlin Multiplatform, React Native, Xamarin, and Unity3D, with a focus on clean architecture, performance, and maintainability. Experienced in designing CI/CD pipelines, enforcing code quality standards, and leading distributed engineering teams. Passionate about AI, PCG, and quantum computing, with experimental and low-level personal projects.
 ## Dev Experience
