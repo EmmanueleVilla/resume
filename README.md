@@ -4,74 +4,85 @@
   : <iconify-icon icon="tabler:brand-linkedin"></iconify-icon> [emmanuelevilla](https://linkedin.com/in/emmanuelevilla/)
   : <iconify-icon icon="tabler:brand-itch"></iconify-icon> [willyrs](https://willyrs.itch.io/)
 ## Summary
-15+ years of experience building and scaling enterprise-grade cross-platform applications across mobile, TV, wearable, and automotive platforms. Strong hands-on background in Android, Kotlin Multiplatform, React Native, Xamarin, and Unity3D, with a focus on clean architecture, performance, and maintainability. Experienced in designing CI/CD pipelines, enforcing code quality standards, and leading distributed engineering teams. Passionate about AI, PCG, and quantum computing, with experimental and low-level personal projects.
+15+ years building enterprise-grade cross-platform apps for mobile, TV, wearable, and automotive, with deep hands-on expertise in Android, Kotlin Multiplatform, React Native, Xamarin, and Unity3D. Experienced in CI/CD, code quality, and leading distributed teams, with a personal passion for AI, PCG, and quantum computing.
 ## Dev Experience
 **Solution Architect & Associate Manager** 
 : **Fincons Group, May 2026 - Present**
-- Prototyping agentic AI workflows across the full development lifecycle, from requirement refinement and architecture generation to LLM-assisted PR review with automated test case generation and execution, reducing manual overhead in pre- and post-release processes.
+- Prototyping agentic AI workflows across the development lifecycle, from requirement refinement to LLM-assisted PR review and automated testing, reducing manual overhead in release processes.
 
 **Senior Technical Consultant** 
 : **Fincons Group, May 2023 - May 2026** 
-- Architected and led the RTE Radio mobile application (Ireland’s National Broadcaster) using Kotlin Multiplatform (KMM) and Jetpack Compose, achieving 30% code reuse while maintaining native UX across Android, iOS, Car, and Wear platforms. 
-- Designed, implemented, and managed a full CI/CD pipeline using GitHub Actions, Fastlane, and Maestro, integrating static analysis, linting, unit/UI tests, and AI-assisted pre-commit validation; achieved 40% reduction in release defects.
+- Led RTE Radio App (Ireland's National Broadcaster) using Kotlin Multiplatform and Jetpack Compose, achieving 30% code reuse across Android, iOS, Car, and Wear. 
+- Built a CI/CD pipeline with GitHub Actions, Fastlane, and Maestro (static analysis, tests, AI-assisted pre-commit checks), cutting release defects by 40%.
 
 **Technical Consultant** 
 : **Fincons Group, May 2020 - May 2023** 
 
-- Directed architecture and implementation of RTE mobile and CTV platforms, integrating Flux/Redux design across Android, iOS, and ReactJS, achieving consistent feature parity and 30% shared logic reuse.
-- Mentored a distributed engineering team of 10+ developers, introducing architecture patterns, code review standards and test automation practices that increased team velocity by 25% and reduced post-release issues by 30%.
+- Directed RTE mobile/CTV App architecture using Flux/Redux across Android, iOS, and ReactJS, achieving 30% shared logic reuse.
+- Mentored a distributed team of 10+ developers on architecture, code review, and test automation, cutting post-release issues by 50%.
 
 **Senior Mobile Developer** 
 : **Fincons Group, May 2017 - May 2020** 
 
-- Led full lifecycle development of Publitalia’s advertising sales platform using React Native and Redux, improving data entry accuracy and workflow speed. 
-- Rebuilt and optimized Eni’s MyMulticard mobile app using Xamarin, ReactiveUI, and Rx patterns. 
+- Led full lifecycle development of Publitalia's advertising sales platform using React Native and Redux. 
+- Rebuilt and optimized Eni's MyMulticard mobile app using Xamarin, ReactiveUI, and Rx patterns. 
 
 **Mobile Developer** 
 : **Fincons Group, Jan 2015 - May 2017** 
 
-- Developed and maintained OTT applications for Sky Germany, Sky Online, and Sky Spain using Xamarin Native, integrating DRM streaming, offline playback and Chromecast. 
-- Enhanced Jenkins CI/CD pipelines by configuring build jobs and automating regression tests, reducing release failures and improving deployment consistency across multiple platforms. 
+- Developed and maintained OTT applications for Sky Germany, Sky Online, and Sky Spain using Xamarin Native, with DRM streaming, offline playback, and Chromecast. 
+- Enhanced Jenkins CI/CD pipelines with automated regression tests, reducing release failures. 
 
 **Unity3d Developer** 
 : **Mixel, Sept 2012 - Jan 2015** 
 
-- Designed, developed, and published cross-platform mobile games for Android, iOS, and Windows Phone using Unity3D; accumulated 10K+ downloads and positive performance reviews. 
-- Contributed to the Genetic Algorithm Artificial Intelligence for the porting of the Magnifico board game to Desktop and Tablet platforms, available on Steam 
+- Designed and published cross-platform mobile games for Android, iOS, and Windows Phone using Unity3D, reaching 10K+ downloads. 
+- Built the Genetic Algorithm AI for the Magnifico board game port to Desktop/Tablet, published on Steam. 
 
-## Speaking 
+## Speaking experience
 
-**Casa di reclusione di Bollate** 
-: **2027** 
+**Casa di reclusione di Bollate**  
+: **2027 (planned)**
 
-- Delivered an educational lecture on human and artificial intelligence, covering neural networks, machine learning, and the similarities and differences between biological and artificial learning processes. 
+- Educational lecture on human and artificial intelligence, exploring neural networks, machine learning, and the parallels between biological and artificial learning.
 
-**AI Heroes Turin** 
-: **2026** 
+**Codemotion Milano**  
+: **2026**
 
-- Delivered a talk on agent orchestration for translating and analyzing Latin texts, presenting a multi-agent pipeline combining tool usage, iterative refinement, and linguistic analysis. 
+- *AI Fundamentals in Action: Evolving a Flappy Bird Agent*. An exploration of feed-forward neural networks and genetic algorithms through a Compose Multiplatform game agent that learns to play Flappy Bird.
 
-**Droidcon Turin, DevFest Vicenza** 
-: **2025-2026** 
-- Presented "Post-Quantum Cryptography with Kotlin Multiplatform", demonstrating a Kyber-based client/server architecture built entirely in KMP. 
+**DevFest Milano**  
+: **2026**
 
-\newpage 
+- *From Prompts to Production: Building Android Apps with Skills and MCP Tools*. Applying AI agents to Android development through custom Skills and MCP tools for architectural guidance, project knowledge, and development workflows.
+
+**AI Heroes Turin**  
+: **2026**
+
+- Multi-agent orchestration for Latin translation and linguistic analysis, combining tool use, iterative refinement, and specialized AI agents.
+
+**Droidcon Turin · DevFest Vicenza**  
+: **2025–2026**
+
+- *Post-Quantum Cryptography with Kotlin Multiplatform*. A Kyber-based client/server architecture implemented entirely with Kotlin Multiplatform.
+
+\newpage
 
 ## Teaching Experience 
+
+**Computer Science Tutor** 
+: **Casa di reclusione di Bollate, Oct 2026 - Present** 
+
+- One-on-one tutoring of a computer science student in the prison's education program, supporting coursework and programming fundamentals. 
 
 **Teacher** 
 : **U3 Carate Brianza, Sept 2024 - Present** 
 
 - Designed and delivered multiple courses to 100+ adult learners: Artificial Intelligence (2024), History of Computers (2025), Dungeons & Dragons and Worldbuilding (2026), History of Science (2026), Computer Security (2027) 
 
-**Online Course Lecturer** 
-: **Sky Clouds Academy, Jan 2023** 
-
-- Produced two professional courses: Git Mastery and Quantum Computing Foundations, totaling 30+ hours of content for online learners. 
 
 ## Personal Projects 
 
-- [**Android App Tester**](https://github.com/EmmanueleVilla/android-app-tester): An open source tool to UI-test android application using scripts and natural language. 
 - [**MiuLingo**](https://play.google.com/store/apps/details?id=com.shadowings.gero): A duolingo-like application to learn Ancient Egyptian hieroglyphs. 
 - [**Taskagotchi**](https://play.google.com/store/apps/details?id=com.shadowings.taskgotchi): A retro Windows 98-style task manager simulation game where you manage a fake system. 
 - [**Kyber-KMP**](https://github.com/EmmanueleVilla/KyberKmp): Post Quantum Cryptography client/server architecture in KMP. 
@@ -103,7 +114,7 @@ Università degli Studi di Milano, Specialization in Medieval Studies
 **MSc in Computer Science** 
 : **2021 - 2024** 
 
-Università degli Studi di Milano, Specialization in Game Programming 110/110 cum laude, with a thesis on "Procedural Content Generation with Quantum Algorithms" 
+Università degli Studi di Milano, Specialization in Game Programming; 110/110 cum laude, with a thesis on "Procedural Content Generation with Quantum Algorithms" 
 
 **BSc in Computer Science** 
 : **2008 - 2012** 
